@@ -7,10 +7,9 @@ In order to create the connection between java and SQL I created a new SQL user 
 
 ## SQL code 
 
-![image](https://github.com/ntyblco/Java-SQL-connection/assets/71352228/137d7ae4-ccfe-483d-bc4c-9be1be6967a5)
+![image](https://github.com/ntyblco/Java-SQL-connection/assets/71352228/f50336f1-ba7c-464d-80a6-db03982bfdc0)
 
 
-![image](https://github.com/ntyblco/Java-SQL-connection/assets/71352228/f7974028-2d55-43a8-b795-477c1de85832)
 
 
 UML of the project 
