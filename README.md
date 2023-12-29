@@ -14,10 +14,3 @@ In order to create the connection between java and SQL I created a new SQL user 
 
 ![image](https://github.com/ntyblco/Java-SQL-connection/assets/71352228/8804d18c-84e5-4347-a335-13ab071bd9ea)
 
-
-
-
-UML of the project 
-
-[UML final.pdf](https://github.com/ntyblco/Java-SQL-connection/files/11221296/UML.final.pdf)
-
